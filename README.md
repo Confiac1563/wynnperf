@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://i.ibb.co/j9GYtV90/standard.gif">
+  <img src="https://i.ibb.co/j9GYtV90/standard.gif" alt="Modpack banner">
   
   <p><b>The perfect blend of Valkaw Client's performance and the RPG world of WynnCraft.</b></p>
 
   <div>
-    <a href="https://github.com/Confiac1563/wynnkaw"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client"></a>
-    <a href="https://modrinth.com/modpack/wynnkaw"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client"></a> <br>
-    <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=Valkaw&labelColor=grey&color=009C0F"></a>
+    <a href="https://github.com/Confiac1563/wynnkaw"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client" alt="Modpack link 1"></a>
+    <a href="https://modrinth.com/modpack/wynnkaw"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client" alt="Modpack link 2"></a> <br>
+    <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=Valkaw&labelColor=grey&color=009C0F" alt="Modpack link 3"></a>
   </div>
 </div>
 
@@ -66,12 +66,12 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
 
 1.  **Download** the latest release from the <a href="#">Releases</a> section, depending on your launcher.
 2.  **Use** a supported Launcher (Prism Launcher, MultiMC, or CurseForge).
-3.  **Import** the `.zip` file or `.mrpack` file and allocate between **2GB - 4GB of RAM**.
+3.  **Import** the `.zip` file or `.mrpack` file and allocate between **4GB - 6GB of RAM**.
 4.  **Connect** to the Server: `play.wynncraft.com`.
 
 ---
 
-## 🛠️ Manual Installation (Legacy, Titan, & Others)
+## 🛠️ Manual Installation
 
 <details>
 <summary><b>Click to expand Manual Installation Guide</b></summary>
@@ -103,7 +103,7 @@ If you are using **Legacy Launcher**, **Titan Launcher**, or any launcher that d
 Since these launchers often default to 1GB of RAM, you **must** increase it for the best experience:
 * Go to **Settings** or **Edit Profile** in your launcher.
 * Find **JVM Arguments** or **Memory Allocation**.
-* Change `-Xmx1G` to `-Xmx2G` or `-Xmx4G`.
+* Change `-Xmx1G` to `-Xmx4G` or `-Xmx6G`.
 
 ### 5. Launch
 * Select the **Fabric-Loader** profile.
@@ -112,11 +112,6 @@ Since these launchers often default to 1GB of RAM, you **must** increase it for 
 </details>
 
 ---
-
-## 🤝 Credits
-
-* **Valkaw Client:** The original foundation of this modpack.
-* **WynnCraft Community:** High-quality mods that enhance the overall experience.
 
 <br />
 
