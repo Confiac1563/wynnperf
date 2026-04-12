@@ -62,12 +62,13 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
 
 ---
 
-## 🚀 Installation
+## 📥 Installation Guide
 
-1.  **Download** the latest release from the <a href="#">Releases</a> section, depending on your launcher.
-2.  **Use** a supported Launcher (Prism Launcher, MultiMC, or CurseForge).
-3.  **Import** the `.zip` file or `.mrpack` file and allocate between **4GB - 6GB of RAM**.
-4.  **Connect** to the Server: `play.wynncraft.com`.
+### 🟢 Modrinth App, MultiMC, Prims Launcher
+1. Open the launcher that supports the Modrinth modpack format.
+2. Search for **Wynnkaw**.
+3. Choose your preferred edition, either Sodium or VulkanMod, and the Minecraft version you want to play.
+4. Click **Install** and hit play!
 
 ---
 
@@ -93,7 +94,6 @@ If you are using **Legacy Launcher**, **Titan Launcher**, or any launcher that d
 * Copy the following folders from the zip into your `.minecraft` directory:
     * `mods/`
     * `config/`
-    * `resourcepacks/`
     * `shaderpacks/` (if available)
 
 > [!WARNING]  
