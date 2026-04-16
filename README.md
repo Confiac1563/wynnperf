@@ -51,7 +51,7 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
     </tr>
     <tr>
       <td><b>Wynn Features</b></td>
-      <td>Wynntils, WynnExtras, WynnLantern, etc.</td>
+      <td>Wynntils, WynnLantern, etc.</td>
     </tr>
     <tr>
       <td><b>Visuals</b></td>
