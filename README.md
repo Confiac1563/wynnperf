@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/j9GYtV90/standard.gif" alt="Modpack banner">
+  <img width="680" height="240" alt="standard" src="https://i.ibb.co/Q3NstGQp/standard.gif" />
+
   
   <p><b>The perfect blend of Valkaw Client's performance and the RPG world of WynnCraft.</b></p>
 
