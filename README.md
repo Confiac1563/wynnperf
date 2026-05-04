@@ -15,7 +15,7 @@
 ---
 
 ## 📖 Introduction
-**Wynnkaw** is an optimized modpack specifically tailored for adventurers in the kingdom of **WynnCraft**. 
+**WynnPerf** is an optimized modpack specifically tailored for adventurers in the kingdom of **WynnCraft**. 
 
 Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating" process—removing unnecessary mods to achieve the highest possible frame rates—while integrating advanced RPG support features for a smoother and more intuitive gameplay experience.
 <p align="center">
