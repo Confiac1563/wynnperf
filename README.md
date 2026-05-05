@@ -1,11 +1,10 @@
 <div align="center">
   <img width="680" height="240" alt="standard" src="https://i.ibb.co/Q3NstGQp/standard.gif" />
-
   
   <p><b>The perfect blend of Valkaw Client's performance and the RPG world of WynnCraft.</b></p>
 
   <div>
-    <a href="https://github.com/Confiac1563/wynnperf"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client" alt="Modpack link 1"></a>
+    <a href="https://github.com/Confiac1563/wynnkaw"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client" alt="Modpack link 1"></a>
     <a href="https://modrinth.com/modpack/wynnperf"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client" alt="Modpack link 2"></a> <br>
     <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=Valkaw&labelColor=grey&color=009C0F" alt="Modpack link 3"></a>
   </div>
@@ -67,11 +66,11 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
 
 ### 🟢 Modrinth App, MultiMC, Prims Launcher
 1. Open the launcher that supports the Modrinth modpack format.
-2. Search for **Wynnkaw**.
+2. Search for **WynnPerf**.
 3. Choose your preferred edition, either Sodium or VulkanMod, and the Minecraft version you want to play.
 4. Click **Install** and hit play!
 
----
+--- 
 
 ## 🛠️ Manual Installation
 
@@ -91,11 +90,12 @@ If you are using **Legacy Launcher**, **Titan Launcher**, or any launcher that d
 * Standard path: `%appdata%\.minecraft` (Windows) or `~/Library/Application Support/minecraft` (macOS).
 
 ### 3. Extract Modpack Files
-* Open the `Wynnkaw.zip` file you downloaded.
-* Copy the following folders from the zip into your `.minecraft` directory:
+* Open the `<version>.zip` file you downloaded from GitHub.
+* Copy the following folders and files from the zip into your `.minecraft` directory:
     * `mods/`
     * `config/`
-    * `shaderpacks/` (if available)
+    * `resourcepacks/`
+    * `options.txt/`
 
 > [!WARNING]  
 > If you already have a `mods` folder, it's recommended to back it up or clear it before copying to avoid mod conflicts.
