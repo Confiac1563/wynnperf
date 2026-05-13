@@ -6,7 +6,7 @@
   <div>
     <a href="https://github.com/Confiac1563/wynnkaw"><img src="https://img.shields.io/badge/Page-Github?style=flat&logo=GitHub&logoColor=white&logoSize=96&label=GitHub&labelColor=grey&color=009C0F&link=https%3A%2F%2Fgithub.com%2FConfiac1563%2FValkaw-Client" alt="Modpack link 1"></a>
     <a href="https://modrinth.com/modpack/wynnperf"><img src="https://img.shields.io/badge/Page-modrinth?style=flat&logo=modrinth&logoColor=dark_green&logoSize=96&label=Modrinth&labelColor=grey&color=009C0F&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fvalkaw-client" alt="Modpack link 2"></a> <br>
-    <a href="https://modrinth.com/modpack/valkaw-client"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=Valkaw&labelColor=grey&color=009C0F" alt="Modpack link 3"></a>
+    <a href="https://modrinth.com/modpack/valkaw"><img src="https://img.shields.io/badge/Modpack-wynn?style=flat&logo=modrinth&logoColor=dark_green&logoSize=16&label=Valkaw&labelColor=grey&color=009C0F" alt="Modpack link 3"></a>
   </div>
 </div>
 
@@ -16,7 +16,7 @@
 ## 📖 Introduction
 **WynnPerf** is an optimized modpack specifically tailored for adventurers in the kingdom of **WynnCraft**. 
 
-Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating" process—removing unnecessary mods to achieve the highest possible frame rates—while integrating advanced RPG support features for a smoother and more intuitive gameplay experience.
+Built on the foundation of **Valkaw**, we have implemented a "de-bloating" process—removing unnecessary mods to achieve the highest possible frame rates—while integrating advanced RPG support features for a smoother and more intuitive gameplay experience.
 <p align="center">
   <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/99a3f961-2683-4e4b-b1f5-73458aaadc59" />
 
@@ -43,11 +43,11 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
   <tbody>
     <tr>
       <td><b>Core</b></td>
-      <td>Based on the lite version of <b>Valkaw Client</b></td>
+      <td>Based on the lite version of <b>Valkaw</b></td>
     </tr>
     <tr>
       <td><b>Performance</b></td>
-      <td>Sodium, Lithium, ScalableLux (Rendering optimization)</td>
+      <td>Sodium for OpenGL - VulkanMod for Vulkan API</td>
     </tr>
     <tr>
       <td><b>Wynn Features</b></td>
@@ -55,7 +55,7 @@ Built on the foundation of **Valkaw Client**, we have implemented a "de-bloating
     </tr>
     <tr>
       <td><b>Visuals</b></td>
-      <td>Iris Shaders</td>
+      <td>Iris Shaders (Sodium) - Beryl (VulkanMod)</td>
     </tr>
   </tbody>
 </table>
